@@ -6,5 +6,6 @@ Find all the prime numbers that are at equal distance from a given number n. Tak
 ### Sample Input:
 10
 ### Sample Output:
-7 13
+7 13![]('
+')
 3 17
