@@ -1,3 +1,4 @@
+#Taking the input from user
 n=int(input())
 c=0
 l1=[]
@@ -20,6 +21,7 @@ for i in reversed(range(n+1,2*n-1)):
     c=0
 l2.reverse()
 #print(l1,l2)
+# Displaying the output only if the prime numbers are equidistance
 for i in range(len(l1)):
     for j in range(len(l2)):
         if (n-l1[i])==(l2[j]-n):
