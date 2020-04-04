@@ -1,4 +1,4 @@
-# Taking the input from user
+#Taking the input from user
 n=int(input())
 c=0
 l1=[]
